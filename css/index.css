@@ -87,3 +87,14 @@ button{
     /* text-decoration: underline; */
 }
 
+
+a:hover{
+    text-decoration: underline;
+    color: aliceblue;
+
+}
+
+a:link {
+text-decoration: underline;
+color: aliceblue;
+}
