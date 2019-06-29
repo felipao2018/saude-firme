@@ -1,0 +1,89 @@
+.container{
+    background-color: #E6E6E6;
+}
+
+.logo_header{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.titulo{
+    margin-top: 20px;  
+    text-align: center;
+    color: #278C8C;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: underline;
+}
+
+.texto-simples-titulo{
+    color:#938D95;
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.card-form{
+    background-color: #278C8C;
+    margin-top:  20px;
+    /* margin-left: 10px; */
+    margin-right: 90px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+}
+
+.dentro-formulario{
+    background-color: #278C8C;
+    margin-top:  20px;
+    margin-right: 15px;
+    margin-left: 10px;
+    margin-bottom: 15px;
+}
+    
+.titulo_form{
+    text-decoration: bold;
+    color: #E6E6E6; 
+    font-weight: bold;
+}
+
+p{
+    color: #E6E6E6;
+}
+
+span{
+    color: #E6E6E6;
+}
+
+.tamanho_input, select{
+    width: 415px;
+}
+
+button{
+    background-color: #E68320;
+    color: aliceblue;
+    width: 400px;
+    height: 50px;
+}
+
+.footer{
+    background-color: #278C8C;
+}
+
+.capas{
+    margin-top: 25px;
+    text-align: center;
+}
+
+.capas_titulo{
+    color: #E6E6E6;
+    text-decoration: underline;
+}
+
+.footer-copyright{
+    color: #278C8C;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    /* text-decoration: underline; */
+}
+
